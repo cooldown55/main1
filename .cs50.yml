@@ -1,2 +1,1 @@
-lab50:
-  cmd: read -p "paste scmining" CRP
+lab50: true
